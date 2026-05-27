@@ -1,0 +1,16 @@
+# Azure Functions local settings (contains secrets!)
+local.settings.json
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Mac junk files
+.DS_Store
+
+# Logs
+*.log
